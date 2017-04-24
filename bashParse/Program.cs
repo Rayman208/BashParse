@@ -26,6 +26,7 @@ namespace bashParse
             {
                 Console.WriteLine(node.InnerText);
                 Console.WriteLine("*************");
+                Console.WriteLine("*************");
             }
 
             Console.ReadKey();
